@@ -56,7 +56,6 @@ venv\Scripts\activate          # Windows
 # source venv/bin/activate     # macOS / Linux
 
 pip install -r requirements.txt
-pip install flask openai       # used by the web app and the connection test
 ```
 
 ### 3. Start LM Studio
